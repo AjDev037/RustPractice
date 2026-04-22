@@ -21,4 +21,6 @@ fn main() {
 
     //This is just to check the print
     println!("{}",input);
+
+    //Now if we do something like let mut input = 4. And we try to read a line for the input. It wouldn't let me because it will expect a string.
 }
